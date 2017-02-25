@@ -1,4 +1,4 @@
-var rsr = Raphael('map', '700', '1100');
+var rsr = Raphael('map', '400', '920');
 
 var regions = [];
 
